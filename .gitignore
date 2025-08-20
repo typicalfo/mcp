@@ -1,0 +1,35 @@
+# Node modules
+node_modules/
+
+# Build output
+build/
+dist/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+.env.local
+
+# TypeScript caches
+*.tsbuildinfo
+
+# IDE and editor files
+.vscode/
+.DS_Store
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Other files to ignore
+coverage/
+*.tgz
+*.zip
