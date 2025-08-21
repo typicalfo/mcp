@@ -22,3 +22,7 @@ npm run dev
 ## Documentation
 
 For detailed setup instructions and documentation, see the [official MCP tutorial](https://modelcontextprotocol.io/quickstart/server#node).
+
+## Resources
+
+[Official Tutorial Repository](https://github.com/modelcontextprotocol/quickstart-resources/tree/main/weather-server-typescript)
